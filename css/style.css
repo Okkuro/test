@@ -1,0 +1,33 @@
+body{
+    border-color: lavender;
+}
+
+#form-reg{
+    margin: 0px auto;
+    max-width: 300px;
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.form-item{
+    background-color: darkblue;
+    border: white solid 1px;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+.form-btn{
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 5px;
+    border: 2px solid darkblue;
+    margin-top: 5px;
+}
+
+.form-btn:hover{
+    border: 3px solid darkblue;
+    background-color: rgb(3, 224, 224);
+}
